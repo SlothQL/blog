@@ -1,10 +1,10 @@
 # Site settings
 name: Alina
 email: lindenalina.al@gmail.com
-url: url
+url: https://slothql.github.io/
 description: "A blog and a portfolio"
-author: "author"
-title: "BlogFolio"
+author: "Alina"
+title: "Blog"
 permalink: pretty
 baseurl:
 
