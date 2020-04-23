@@ -1,16 +1,16 @@
 # Site settings
-name: name
+name: Alina
 email: email
 url: url
 description: "A blog and a portfolio"
 author: "author"
 title: "BlogFolio"
 permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+baseurl:
 
 # social
 github:
-  username: username
+  username: SlothQL
 
 twitter:
-  username: username
+  username: SlothQL
