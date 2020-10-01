@@ -34,3 +34,8 @@ body {
   background-color: #FF8C69;
   color: white;
 }
+
+.is-120x120 {
+  height: 120px;
+  width: auto;
+}
